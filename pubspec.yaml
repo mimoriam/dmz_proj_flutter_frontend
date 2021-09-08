@@ -36,13 +36,16 @@ dependencies:
   cupertino_icons: ^1.0.3
   provider: ^5.0.0
   shared_preferences: ^2.0.7
-  dio: ^4.0.0
   flutter_form_builder: ^6.1.0+1
   path_provider: ^2.0.3
   device_preview: ^0.7.4
   routemaster: ^0.9.5
+  http: ^0.13.3
+  json_annotation: ^4.1.0
 
 dev_dependencies:
+  json_serializable: ^5.0.0
+  build_runner: ^2.1.2
   flutter_test:
     sdk: flutter
 
